@@ -10,6 +10,7 @@ I hope that these write-ups might help you!
 
 ## Rooms
 
-| Room                                          | Solution                        |
-|-----------------------------------------------|---------------------------------|
-| [Opacity](https://tryhackme.com/room/opacity) | [Write-up](./opacity/README.md) |
+| Room                                                | Solution                           |
+|-----------------------------------------------------|------------------------------------|
+| [Opacity](https://tryhackme.com/room/opacity)       | [Write-up](./opacity/README.md)    |
+| [Gatekeeper](https://tryhackme.com/room/gatekeeper) | [Write-up](./gatekeeper/README.md) |
