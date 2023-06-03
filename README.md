@@ -15,3 +15,4 @@ I hope that these write-ups might help you!
 | [Opacity](https://tryhackme.com/room/opacity)       | [Write-up](./opacity/README.md)    |
 | [Gatekeeper](https://tryhackme.com/room/gatekeeper) | [Write-up](./gatekeeper/README.md) |
 | [Brainstorm](https://tryhackme.com/room/brainstorm) | [Write-up](./brainstorm/README.md) |
+| [Valley](https://tryhackme.com/room/valleype)       | [Write-up](./valley/README.md)     |
